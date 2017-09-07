@@ -12,7 +12,8 @@ m 290.498,186.055 c -0.449,0 -0.813,-0.364 -0.813,-0.813 l 0,0 0,-27.648 c 0,-0.
 # Variants
 eos-logo/text-? | logo | text
 --------------- | ---- | ----
-black | ![eos-logo-black](./eos-logo-black.svg) | <img src="./eos-text-black.svg" height="70">
+black | ![eos-logo-black](./eos-logo-black.svg) | <img src="./eos-text-black.svg" height="70">\
+1 | ![eos-logo-2](./eos-logo-1.svg) | <img src="./eos-text-1.svg" height="70">
 2 | ![eos-logo-2](./eos-logo-2.svg) | <img src="./eos-text-2.svg" height="70">
 3 | ![eos-logo-3](./eos-logo-3.svg) | <img src="./eos-text-3.svg" height="70">
 4 | ![eos-logo-4](./eos-logo-4.svg) | <img src="./eos-text-4.svg" height="70">
