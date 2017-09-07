@@ -11,8 +11,8 @@ m 290.498,186.055 c -0.449,0 -0.813,-0.364 -0.813,-0.813 l 0,0 0,-27.648 c 0,-0.
 
 eos-logo/text-? | logo | text
 --------------- | ---- | ----
-black | ![eos-logo-black](./eos-logo-black.svg) | ![eos-text-black](./eos-text-black.svg)
-2 | ![eos-logo-2](./eos-logo-2.svg) | ![eos-text-2](./eos-text-2.svg)
-3 | ![eos-logo-3](./eos-logo-3.svg) | ![eos-text-3](./eos-text-3.svg)
-4 | ![eos-logo-4](./eos-logo-4.svg) | ![eos-text-4](./eos-text-4.svg)
-5 | ![eos-logo-5](./eos-logo-5.svg) | ![eos-text-5](./eos-text-5.svg)
+black | ![eos-logo-black](./eos-logo-black.svg) | <img src="./eos-text-black.svg" height="70">
+2 | ![eos-logo-2](./eos-logo-2.svg) | <img src="./eos-text-2.svg" height="70">
+3 | ![eos-logo-3](./eos-logo-3.svg) | <img src="./eos-text-3.svg" height="70">
+4 | ![eos-logo-4](./eos-logo-4.svg) | <img src="./eos-text-4.svg" height="70">
+5 | ![eos-logo-5](./eos-logo-5.svg) | <img src="./eos-text-5.svg" height="70">
